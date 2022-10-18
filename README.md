@@ -28,4 +28,4 @@ Lead Scoring Subjective Questions.pdf : Answers to subjective questions
 Lead Scoring Case Study.pdf : Management Presentation  
 Leads.csv : Dataset worked on  
 Leads Data Dictionary.xlsx : Data Dictionary  
-Assignment Summary.pdf : Summary of the .py file  
+Lead Scoring Assignment Summary.pdf : Summary of the .py file  
